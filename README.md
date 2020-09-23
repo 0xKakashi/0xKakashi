@@ -1,3 +1,3 @@
 # 0xKAKASHI
 
-> Crypto Ninja
+> Software Engineer ⚡️ Crypto Ninja
