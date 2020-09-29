@@ -2,7 +2,7 @@
 
 > Software Engineer ⚡️ Crypto Ninja
 
-## COPYCAT NINJA
+### COPYCATS
 
 * 💥 [Nuxt.js Boilerplate](https://github.com/0xkakashi/nuxtjs-boilerplate)
 * ⭐️ [Serverless Boilerplate](https://github.com/0xkakashi/sls-boilerplate)
