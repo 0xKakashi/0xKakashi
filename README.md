@@ -1,6 +1,6 @@
 ![0xKakashi](./0xkakashi-banner.png)
 
-# 0xKAKASHI 🌀
+# 🌀 0xKakashi
 
 > Software Engineer ⚡️ Crypto Ninja
 
