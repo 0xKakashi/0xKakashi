@@ -6,7 +6,7 @@
 
 ### PROJECTS
 
-🍱 [0xKakashi's Cookbook](https://github.com/0xkakashi/cookbook)
+🍱 [Cookbook](https://github.com/0xkakashi/cookbook)
 
 ### COPYCATS
 
