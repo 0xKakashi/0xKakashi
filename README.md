@@ -4,6 +4,10 @@
 
 > Software Engineer ⚡️ Crypto Ninja
 
+### PROJECTS
+
+🍱 [0xKakashi's Cookbook](https://github.com/0xkakashi/cookbook)
+
 ### COPYCATS
 
 🏔 [Nuxt.js Boilerplate](https://github.com/0xkakashi/nuxtjs-boilerplate) _TEMP_
