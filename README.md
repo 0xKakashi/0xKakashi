@@ -2,7 +2,7 @@
 
 # 🌀 0xKakashi
 
-> Software Engineer ⚡️ Crypto Ninja
+> Software Engineer ⚡️ Copy-code Ninja
 
 ### PROJECTS
 
