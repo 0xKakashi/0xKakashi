@@ -12,6 +12,7 @@
 
 ⚡️ [Barry Allen](https://github.com/0xkakashi/barry-allen)
 
+---
 
 ### 📇 TEMPLATES
 
