@@ -8,6 +8,8 @@
 
 🍱 [Cookbook](https://github.com/0xkakashi/cookbook)
 
+⚡️ [Barry Allen](https://github.com/0xkakashi/barry-allen)
+
 ### COPYCATS
 
 🏔 [Nuxt.js Boilerplate](https://github.com/0xkakashi/nuxtjs-boilerplate) `template`
