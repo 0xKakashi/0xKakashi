@@ -4,13 +4,16 @@
 
 > Software Engineer ⚡️ Copy-code Ninja
 
-### PROJECTS
+### 🛠 PROJECTS
 
 🍱 [Cookbook](https://github.com/0xkakashi/cookbook)
 
+📒 [Bingo Book](https://github.com/0xkakashi/bingo-book)
+
 ⚡️ [Barry Allen](https://github.com/0xkakashi/barry-allen)
 
-### COPYCATS
+
+### 📇 TEMPLATES
 
 🏔 [Nuxt.js Boilerplate](https://github.com/0xkakashi/nuxtjs-boilerplate) `template`
 
