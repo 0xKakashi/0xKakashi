@@ -8,11 +8,12 @@
 
 ### 🛠 PROJECTS
 
+📔 [cookbook](https://github.com/0xkakashi/cookbook/)
 
 ### 📑 TEMPLATES
 
-🏔 [Nuxt.js](https://github.com/0xkakashi/nuxtjs-boilerplate)
+🏔 [nuxtjs-boilerplate](https://github.com/0xkakashi/nuxtjs-boilerplate)
 
-🔥 [CLI](https://github.com/0xkakashi/cli-boilerplate)
+🔥 [cli-boilerplate](https://github.com/0xkakashi/cli-boilerplate)
 
-💧 [Serverless](https://github.com/0xkakashi/sls-boilerplate)
+💧 [sls-boilerplate](https://github.com/0xkakashi/sls-boilerplate)
