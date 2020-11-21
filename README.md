@@ -8,7 +8,6 @@
 
 ### 🛠 PROJECTS
 
-🍱 [Cookbook](https://github.com/0xkakashi/cookbook)
 
 ### 📑 TEMPLATES
 
