@@ -12,8 +12,8 @@
 
 ### 📑 TEMPLATES
 
-🏔 [nuxtjs-boilerplate](https://github.com/0xkakashi/nuxtjs-boilerplate)
+🏔 [nuxtjs-boilerplate](https://github.com/0xkakashi/nuxtjs-boilerplate) _`TEMPLATE`_
 
-🔥 [cli-boilerplate](https://github.com/0xkakashi/cli-boilerplate)
+🔥 [cli-boilerplate](https://github.com/0xkakashi/cli-boilerplate) _`TEMPLATE`_
 
-💧 [sls-boilerplate](https://github.com/0xkakashi/sls-boilerplate)
+💧 [sls-boilerplate](https://github.com/0xkakashi/sls-boilerplate) _`TEMPLATE`_
