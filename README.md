@@ -6,11 +6,11 @@
 
 ---
 
-### 🛠 PROJECTS
+## 🛠 PROJECTS
 
 📔 [cookbook](https://github.com/0xkakashi/cookbook/)
 
-### 📑 TEMPLATES
+## 📑 TEMPLATES
 
 🏔 [nuxtjs-boilerplate](https://github.com/0xkakashi/nuxtjs-boilerplate) _`TEMPLATE`_
 
